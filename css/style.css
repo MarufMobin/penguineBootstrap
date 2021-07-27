@@ -1,0 +1,49 @@
+/* Google font linking here */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500&display=swap');
+
+/* Google font linking here */
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header-section{
+    background-color: #FFF9F4;
+}
+.nav-item .nav-link{
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 45px;
+}
+.inner-banner{
+    width: 100%;
+}
+.inner-banner h1{
+    padding-top: 80px;
+    font-size: 72px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+.penguin-text-color-sec{
+    color: #363958;
+}
+
+.penguin-text-color{
+    color: #FA804C;
+    letter-spacing: 1.5px;
+}
+.penguin-banner-text{
+    width: 70%;
+    color: #3E3E3E;
+    font-size: 16px;
+    font-weight: 500;
+}
+.penguin-btn{
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: red;
+    padding: 12px 25px;
+    color: #fff;
+}
