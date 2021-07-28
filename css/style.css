@@ -11,6 +11,7 @@ body{
 }
 .header-section{
     background-color: #FFF9F4;
+    margin-bottom: 40px;
 }
 .nav-item .nav-link{
     font-size: 16px;
@@ -19,6 +20,7 @@ body{
 }
 .inner-banner{
     width: 100%;
+    padding: 40px 0px 40px 40px;
 }
 .inner-banner h1{
     padding-top: 80px;
@@ -61,3 +63,6 @@ body{
     color: #363958;
 }
 /* casual-section code end here */
+
+
+
