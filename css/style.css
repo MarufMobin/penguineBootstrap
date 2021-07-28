@@ -15,7 +15,7 @@ body{
 .nav-item .nav-link{
     font-size: 16px;
     font-weight: 500;
-    margin-left: 45px;
+    margin-left: 35px;
 }
 .inner-banner{
     width: 100%;
@@ -40,10 +40,24 @@ body{
     font-size: 16px;
     font-weight: 500;
 }
-.penguin-btn{
+.penguin-btn a{
     border-radius: 10px;
     font-size: 18px;
-    background-color: red;
+    background-color: #FA804C;
     padding: 12px 25px;
     color: #fff;
+    cursor: pointer;
+    text-decoration: none;
 }
+
+/* casual-section code start here */
+.casual-section{
+    width: 100%;
+    padding: 80px;
+}
+.casual-section h2{
+    font-size: 48px;
+    line-height: 48px;
+    color: #363958;
+}
+/* casual-section code end here */
